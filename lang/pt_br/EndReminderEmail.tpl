@@ -26,6 +26,6 @@ Detalhes da Reserva:
 	Título: {$Title}<br/>
 	Descrição: {$Description|nl2br}
 <br/>
-<a href="{$ScriptUrl}/{$ReservationUrl}">Ver essa reserva</a> |
+<a href="{$ScriptUrl}/{$ReservationUrl}">Verifique essa reserva</a> |
 <a href="{$ScriptUrl}/{$ICalUrl}">Add to Calendar</a> |
-<a href="{$ScriptUrl}">Entrat no Booked Scheduler</a>
+<a href="{$ScriptUrl}">Acessar o Booked Scheduler</a>
